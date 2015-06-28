@@ -1,2 +1,1 @@
-# ST-BOT
-:gem: :gem: :gem:
+# Main Script :gem:
