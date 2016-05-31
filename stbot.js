@@ -2698,7 +2698,7 @@
                 }
             },
 
-            chatCommand: {
+            /*chatand: {
                 command: 'mode',
                 rank: 'bouncer',
                 type: 'startsWith',
@@ -2724,7 +2724,7 @@
                         });
                     }
                 }
-            },
+            },*/
 
             leaveCommand: {
                 command: 'leave',
