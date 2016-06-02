@@ -2698,7 +2698,7 @@
                 }
             },
 
-            /*chatand: {
+            chatCommand: {
                 command: 'mode',
                 rank: 'bouncer',
                 type: 'startsWith',
@@ -2724,7 +2724,7 @@
                         });
                     }
                 }
-            },*/
+            },
 
             leaveCommand: {
                 command: 'leave',
@@ -2912,7 +2912,7 @@
                 }
             },
 
-            /*slotCommand: {
+            slotCommand: {
               command: 'slot',
               rank: 'user',
               type: 'exact',
@@ -2979,7 +2979,7 @@
                         }
                     }
                 }
-            },*/
+            },
 
             motdCommand: {
                 command: 'motd',
@@ -3519,7 +3519,7 @@
                 }
             },
             
-            /*plugsupportCommand: {
+            plugsupportCommand: {
                 command: 'plug',
                 rank: 'user',
                 type: 'startsWith',
@@ -3536,7 +3536,7 @@
                }
            },
             
-            plugblogCommand: {
+            /*plugblogCommand: {
                 command: 'plugblog',
                 rank: 'residentdj',
                 type: 'exact',
@@ -3549,7 +3549,7 @@
                 }
             },*/
             
-            /*plugfbCommand: {
+            plugfbCommand: {
                 command: 'plug',
                 rank: 'user',
                 type: 'startsWith',
@@ -3581,7 +3581,7 @@
                        }
                    }
                }
-           },*/
+           },
             
             botinfoCommand: {
                 command: 'info',
